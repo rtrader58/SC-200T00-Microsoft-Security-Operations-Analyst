@@ -1,4 +1,4 @@
-# SC-200T00-Microsoft-SecurityI-Operations-Anayst
+# SC-200T00-Microsoft-Security-Operations-Anayst
  
 ## This repository is provided to enhance the course
 ## Updated 8/29/2022
