@@ -6,3 +6,23 @@
 Step 2:  Activate your subscription<br>
 Leave Name and email as is, enter your information in the remaining fields – replace phone number with a valid phone number<br>
 Fill in the address fields<br>
+
+## Module 1<br>
+
+## Lab 1<br>
+
+### Exercise 1 - Explore Microsoft 365 Defender<br>
+
+No Errata<br>
+
+## Module 2<br>
+
+## Lab 1<br>
+
+### Exercise 1 - Deploy Microsoft Defender for Endpoint<br>
+
+No Errata
+
+### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint
+
+Do not continue until you see Win1 listed as a device under assets.  
