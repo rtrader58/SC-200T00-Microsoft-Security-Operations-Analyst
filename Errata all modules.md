@@ -21,8 +21,11 @@ No Errata<br>
 
 ### Exercise 1 - Deploy Microsoft Defender for Endpoint<br>
 
-No Errata
+No Errata<br>
 
-### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint
+### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint<br>
 
-Do not continue until you see Win1 listed as a device under assets.  
+Do not continue until you see Win1 listed as a device under assets.  ~20 Minutes<br>
+
+Task 2: Investigate the Attacks<br>
+Took ~30 Minutes before the incident appeared - keep refreshing the screen until it appears<br>
