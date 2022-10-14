@@ -36,3 +36,13 @@ Do not continue until you see Win1 listed as a device under assets.  ~20 Minutes
 
 Task 2: Investigate the Attacks<br>
 Took ~30 Minutes before the incident appeared - keep refreshing the screen until it appears<br>
+
+## Module 3
+
+### Exercise 1 - Enable microsoft Defender for Cloud <br>
+
+Step 6:  Auto Provisioning has been renamed.  Click on Try it now prompt <br>
+Step 9:  Search for Log analutics workspace - select the work space you created in Task 2 <br>
+
+### Exercise 2 - Mitigate threats using Microsoft Defender for Cloud <br>
+
