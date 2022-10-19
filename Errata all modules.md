@@ -72,3 +72,10 @@ step 30:  Paste function does not work, manually type the name WIN2 <br>
 
 Task 1 - Activate a microsoft Security Rule <br>
 Step 11:  If not selected select Informational, Mediun and High <br>
+
+Remaining Exercises - No Errata <br>
+
+## Moduyle 8 Threat Hunting in Microsoft Sentinel <br>
+
+No Errata
+
