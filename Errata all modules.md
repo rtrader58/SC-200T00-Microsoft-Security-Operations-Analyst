@@ -15,7 +15,7 @@ Fill in the address fields<br>
 
 No Errata<br>
 
-## Module 2<br>
+## Module 2 Microsoft Defender for Endpoint<br>
 
 ## Lab 1<br>
 
@@ -37,7 +37,7 @@ Do not continue until you see Win1 listed as a device under assets.  ~20 Minutes
 Task 2: Investigate the Attacks<br>
 Took ~30 Minutes before the incident appeared - keep refreshing the screen until it appears<br>
 
-## Module 3
+## Module 3 Micrsoft Defender
 
 ### Exercise 1 - Enable microsoft Defender for Cloud <br>
 
@@ -46,3 +46,29 @@ Step 9:  Search for Log analutics workspace - select the work space you created 
 
 ### Exercise 2 - Mitigate threats using Microsoft Defender for Cloud <br>
 
+## Module 4 <br>
+
+No Errata <br>
+
+## Module 5 Microsoft Sentinel <br>
+
+No Errata <br>
+
+## Module 6 Micosoft Sentinel data connectors <br>
+
+## Lab 1 <br>
+
+### Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors <br>
+
+Task 2 - Connecrt an Azure Windows virtual machine <br>
+step 6:  Paste function does not work, manually type the name AZWIN01DCR <br>
+
+Task 3 - Connect a non-Azure Windows Machine <br>
+step 30:  Paste function does not work, manually type the name WIN2 <br>
+
+## Module 7 Microsoft Security Rule <br>
+
+### Exercise 1 - Modify a Microsoft Security rule <br>
+
+Task 1 - Activate a microsoft Security Rule <br>
+Step 11:  If not selected select Informational, Mediun and High <br>
