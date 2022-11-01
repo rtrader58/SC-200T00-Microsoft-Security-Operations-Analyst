@@ -15,7 +15,7 @@
     5 minutes<br>
     https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/3-manage-incidents<br>
 
-### ### From the alert page, begin your investigation by selecting the affected assets or any of the entities under the alert story tree view. The details pane automatically populates with further information about what you selected.<br>
+### From the alert page, begin your investigation by selecting the affected assets or any of the entities under the alert story tree view. The details pane automatically populates with further information about what you selected.<br>
     4 minutes<br>
     https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/5-manage-investigate-alerts<br>
 
