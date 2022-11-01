@@ -27,7 +27,7 @@ Watch this short video to learn more about how threat analytics can help you tra
 5 minutes<br>
 https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/11-analyze-threat-analytics<br>
 
-Detect suspiciou activities and potental attacks with Microsoft Defender for Identity<br
-32 minutes<br
-https://mslearn.cloudguides.com/en-us/guides/Detect%20suspicious%20activities%20and%20potential%20attacks%20with%20Microsoft%20Defender%20for%20Identity<br
+Detect suspiciou activities and potental attacks with Microsoft Defender for Identity<br>
+32 minutes<br>
+https://mslearn.cloudguides.com/en-us/guides/Detect%20suspicious%20activities%20and%20potential%20attacks%20with%20Microsoft%20Defender%20for%20Identity<br>
 
