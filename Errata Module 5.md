@@ -1,0 +1,5 @@
+# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Modules 5<br>
+# Ensure you choose "SAVE" when finishing for the day - so as not to lose your work<br>
+## Module 5 Microsoft Sentinel <br>
+
+No Errata <br>

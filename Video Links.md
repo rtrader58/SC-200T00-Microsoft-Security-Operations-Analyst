@@ -48,8 +48,8 @@ Interactive guide: Investigate and respond to attacks with Microsoft Defender fo
 https://mslearn.cloudguides.com/guides/Investigate%20and%20respond%20to%20attacks%20with%20Microsoft%20Defender%20for%20Identity<br>
 
 Microsoft Defender for Cloud Apps – comprehensive demo<br>
-26 minutes<br>[](https://www.paramountplus.com/live-tv/stream/channels/csi/HYSw1anQR1_C5xVCX9A4prMBOpRf2eq2/)
-https://www.microsoft.com/en-us/videoplayer/embed/RE4CMYG?postJsllMsg=true<br>
+26 minutes<br>
+https://www.paramountplus.com/live-tv/stream/channels/csi/HYSw1anQR1_C5xVCX9A4prMBOpRf2eq2/)
 
 Explore how to safeguard your organization with Microsoft Defender for Office 365<br>
 20 minutes<br>
