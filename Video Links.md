@@ -41,10 +41,31 @@ https://mslearn.cloudguides.com/guides/Safeguard%20your%20organization%20with%20
 
 Detect suspicious activities and potental attacks with Microsoft Defender for Identity<br>
 32 minutes<br>
-https://mslearn.cloudguides.com/en-us/guides/Detect%20suspicious%20activities%20and%20potential%20attacks%20with%20Microsoft%20Defender%20for%20Identity<br>
+https://mslearn.cloudguides.com/guides/Detect%20suspicious%20activities%20and%20potential%20attacks%20with%20Microsoft%20Defender%20for%20Identity<br>
 
 Interactive guide: Investigate and respond to attacks with Microsoft Defender for Identity<br>
 16 minutes<br>
 https://mslearn.cloudguides.com/guides/Investigate%20and%20respond%20to%20attacks%20with%20Microsoft%20Defender%20for%20Identity<br>
+
+Microsoft Defender for Cloud Apps – comprehensive demo<br>
+26 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4CMYG?postJsllMsg=true<br>
+
+Explore how to safeguard your organization with Microsoft Defender for Office 365<br>
+20 minutes<br>
+https://mslearn.cloudguides.com/guides/Safeguard%20your%20organization%20with%20Microsoft%20Defender%20for%20Office%20365<br>
+
+Microsoft Defender for Cloud Apps – comprehensive demo<br>
+26 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4CMYG?postJsllMsg=true<br>
+
+Detect threats and manage alerts with Microsoft Cloud App Security<br>
+11 minutes<br>
+https://mslearn.cloudguides.com/en-us/guides/Detect%20threats%20and%20manage%20alerts%20with%20Microsoft%20Cloud%20App%20Security<br>
+
+Guided demonstration – Insider risk management<br>
+17 minutes<br>
+https://mslearn.cloudguides.com/guides/Minimize%20internal%20risks%20with%20insider%20risk%20management%20in%20Microsoft%20365<br>
+
 
 
