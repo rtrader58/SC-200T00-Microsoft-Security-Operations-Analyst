@@ -1,7 +1,7 @@
 
 # SC-200T00-Microsoft-Security-Operations-Anayst Video Links
 
-## Module 1
+## Module 1 - Mitigate threats using Microsoft 365 Defender - Total time 215 minutes
 
 ### The following cloud guide demonstrates Microsoft 365 Defender and Microsoft Sentinel working together to investigate a security incident in a hybrid environment.<br>
 3 minutes<br>
@@ -66,6 +66,27 @@ https://mslearn.cloudguides.com/en-us/guides/Detect%20threats%20and%20manage%20a
 ### Minimize internal risks with insider risk management in Microsoft 365<br>
 17 minutes<br>
 https://mslearn.cloudguides.com/guides/Minimize%20internal%20risks%20with%20insider%20risk%20management%20in%20Microsoft%20365<br>
+
+## Module 2<br>
+
+### Microsoft Defender for Endpoint – Advanced hunting<br>
+6 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqo<br>
+
+### Incident Investigation<br>
+6 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4qLUV?rel=0&postJsllMsg=true<br>
+
+### Microsoft Defender for Endpoint – Onboarding clients<br>
+3 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqr?rel=0&postJsllMsg=true<br>
+
+### Role-based access control – Microsoft Defender for Endpoint<br>
+5 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4bJ2a?rel=0&postJsllMsg=true<br>
+
+
+
 
 
 
