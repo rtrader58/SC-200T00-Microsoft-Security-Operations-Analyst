@@ -94,3 +94,13 @@ No videos.
 
 
 
+## Module 7 - Create detections and perform investigations using Microsoft Sentinel
+
+TODO: Add videos - there's dead links in the content, see if those links can be found and add it
+
+
+## Module 8: Perform threat hunting in Microsoft Sentinel
+
+TODO: Add videos - there's dead links in the content, see if those links can be found and add it
+
+
