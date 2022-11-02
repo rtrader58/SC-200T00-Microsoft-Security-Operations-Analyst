@@ -125,6 +125,12 @@ https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0<br>
 17 minutes<br>
 https://mslearn.cloudguides.com/guides/Reduce%20organizational%20risk%20with%20Threat%20and%20Vulnerability%20Management<br>
 
+## Module 3 - Mitigate threats using Microsoft Defender for Cloud<br>
+
+### Microsoft Defender for Cloud interactive guide<br>
+19 minutes<br>
+https://mslearn.cloudguides.com/guides/Protect%20your%20hybrid%20cloud%20with%20Azure%20Security%20Center
+
 ## Module 4 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)<br>
 
 No videos<br>
