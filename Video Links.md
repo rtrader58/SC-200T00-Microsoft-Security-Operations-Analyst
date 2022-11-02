@@ -67,7 +67,7 @@ https://mslearn.cloudguides.com/en-us/guides/Detect%20threats%20and%20manage%20a
 17 minutes<br>
 https://mslearn.cloudguides.com/guides/Minimize%20internal%20risks%20with%20insider%20risk%20management%20in%20Microsoft%20365<br>
 
-## Module 2<br>
+## Module 2 - Mitigate threats using Microsoft Defender for Endpoint​ - Total time 82 minutes<br>
 
 ### Microsoft Defender for Endpoint – Advanced hunting<br>
 6 minutes<br>
@@ -85,21 +85,55 @@ https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqr?rel=0&postJsllMsg=true
 5 minutes<br>
 https://www.microsoft.com/en-us/videoplayer/embed/RE4bJ2a?rel=0&postJsllMsg=true<br>
 
+### Attack surface reduction – Microsoft Defender for Endpoint<br>
+7 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4woug?postJsllMsg=true<br>
 
+### Microsoft Defender for Endpoint: EDR in block mode<br>
+4 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4HjW2?rel=0&postJsllMsg=true<br>
 
+### Microsoft Defender for Endpoint: Discover Devices<br>
+7 minutes<br>
+https://www.youtube.com/watch?v=TCDxICrZQa8<br>
 
-## Module 4 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+### Microsoft Defender for Endpoint: Assess and Onboard Unmanaged Devices<br>
+6 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4RwQz?postJsllMsg=true<br>
 
-No videos.
+### Microsoft Defender for Endpoint: Live response<br>
+4 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4qLUW?rel=0&postJsllMsg=true<br>
 
+### Microsoft Defender for Endpoint: Deep analysis<br>
+3 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4aAYy?rel=0&postJsllMsg=true<br>
 
+### Microsoft Defender for Endpoint: Conditional access <br>
+4 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4byD1?rel=0&postJsllMsg=true<br>
 
-## Module 7 - Create detections and perform investigations using Microsoft Sentinel
+### Microsoft Defender for Endpoint: Unified Indicator of compromise (IoCs)<br>
+4 minutes<br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4qLVw?rel=0&postJsllMsg=true<br>
+
+### Video: Threat and vulnerability management: discovery & remediation<br>
+6 minutes<br>
+https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0<br>
+
+### Interactive Guide: Threat and Vulnerability Management<br>
+17 minutes<br>
+https://mslearn.cloudguides.com/guides/Reduce%20organizational%20risk%20with%20Threat%20and%20Vulnerability%20Management<br>
+
+## Module 4 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)<br>
+
+No videos<br>
+
+## Module 7 - Create detections and perform investigations using Microsoft Sentinel<br>
 
 TODO: Add videos - there's dead links in the content, see if those links can be found and add it
 
-
-## Module 8: Perform threat hunting in Microsoft Sentinel
+## Module 8: Perform threat hunting in Microsoft Sentinel<br>
 
 TODO: Add videos - there's dead links in the content, see if those links can be found and add it
 
