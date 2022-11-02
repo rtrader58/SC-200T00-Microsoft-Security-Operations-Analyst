@@ -127,7 +127,7 @@ https://mslearn.cloudguides.com/guides/Reduce%20organizational%20risk%20with%20T
 
 ## Module 3 - Mitigate threats using Microsoft Defender for Cloud<br>
 
-### Microsoft Defender for Cloud interactive guide<br>
+### Microsoft Defender for Cloud interactive guide - Total time 19 minutes<br>
 19 minutes<br>
 https://mslearn.cloudguides.com/guides/Protect%20your%20hybrid%20cloud%20with%20Azure%20Security%20Center
 
