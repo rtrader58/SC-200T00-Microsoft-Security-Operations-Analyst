@@ -88,5 +88,9 @@ https://www.microsoft.com/en-us/videoplayer/embed/RE4bJ2a?rel=0&postJsllMsg=true
 
 
 
+## Module 4 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+
+No videos.
+
 
 
