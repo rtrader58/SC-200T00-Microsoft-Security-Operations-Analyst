@@ -131,9 +131,19 @@ https://mslearn.cloudguides.com/guides/Reduce%20organizational%20risk%20with%20T
 19 minutes<br>
 https://mslearn.cloudguides.com/guides/Protect%20your%20hybrid%20cloud%20with%20Azure%20Security%20Center
 
-## Module 4 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)<br>
+## Module 4 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - Total time 0 minutes<br>
 
 No videos<br>
+
+## Module 5 - Configure your Microsoft Sentinel environment - Total time 15 minutes<br>
+
+Interactive guide: Detect and respond to modern attacks with unified SIEM and XDR capabilities<br>
+15 minutes<br>
+https://mslearn.cloudguides.com/guides/Modernize%20your%20security%20options%20with%20Microsoft%20Azure%20Sentinel<br>
+
+## Module 6 - Connect logs to Microsoft Sentinel - Total time 0 minutes
+
+no videos<br>
 
 ## Module 7 - Create detections and perform investigations using Microsoft Sentinel<br>
 
