@@ -5,10 +5,6 @@
 
 ## Lab 1<br>
 
-### Exercise 1 - Deploy Microsoft Defender for Endpoint<br>
-
-No Errata<br>
-
 ### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint<br>
 
 Office need to be activated in order to trigger the Attack<br>
