@@ -1,3 +1,5 @@
+# SC-200T00-Microsoft-Security-Operations-Anayst - Additional links<br>
+
 Interface Technical Training - http://www.interfacett.com<br>
 Lab environment - https://interfacett.learnondemand.net<br>
 Github lab repository - https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst<br>
@@ -10,5 +12,3 @@ Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-wit
 Azure Fridays - https://learn.microsoft.com/en-us/shows/azure-friday/<br>
 Microsoft Learning community Blog - https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog<br>
 Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<br>
-<br>
-Course links to be added in the future<br>
