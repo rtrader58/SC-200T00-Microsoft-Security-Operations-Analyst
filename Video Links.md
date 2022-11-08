@@ -1,5 +1,8 @@
 
 # SC-200T00-Microsoft-Security-Operations-Anayst Video Links
+<br>
+Please remember that you're not expected to watch all of these videos. Watch the ones you find interesting or cover topics that you want to learn in more depth.
+<br>
 
 
 ## Module 1 - Mitigate threats using Microsoft 365 Defender - Total time 215 minutes
