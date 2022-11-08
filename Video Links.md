@@ -1,6 +1,7 @@
 
 # SC-200T00-Microsoft-Security-Operations-Anayst Video Links
 
+
 ## Module 1 - Mitigate threats using Microsoft 365 Defender - Total time 215 minutes
 
 ### The following cloud guide demonstrates Microsoft 365 Defender and Microsoft Sentinel working together to investigate a security incident in a hybrid environment.<br>
@@ -67,6 +68,7 @@ https://mslearn.cloudguides.com/en-us/guides/Detect%20threats%20and%20manage%20a
 17 minutes<br>
 https://mslearn.cloudguides.com/guides/Minimize%20internal%20risks%20with%20insider%20risk%20management%20in%20Microsoft%20365<br>
 
+
 ## Module 2 - Mitigate threats using Microsoft Defender for Endpoint​ - Total time 82 minutes<br>
 
 ### Microsoft Defender for Endpoint – Advanced hunting<br>
@@ -125,11 +127,17 @@ https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0<br>
 17 minutes<br>
 https://mslearn.cloudguides.com/guides/Reduce%20organizational%20risk%20with%20Threat%20and%20Vulnerability%20Management<br>
 
+
 ## Module 3 - Mitigate threats using Microsoft Defender for Cloud<br>
 
 ### Microsoft Defender for Cloud interactive guide - Total time 19 minutes<br>
 19 minutes<br>
 https://mslearn.cloudguides.com/guides/Protect%20your%20hybrid%20cloud%20with%20Azure%20Security%20Center
+
+### Microsoft Defender for Servers<br>
+22 minutes<br>
+https://learn.microsoft.com/en-us/azure/defender-for-cloud/episode-five
+
 
 ## Module 4 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - Total time 0 minutes<br>
 
