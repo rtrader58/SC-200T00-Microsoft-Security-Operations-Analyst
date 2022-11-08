@@ -153,14 +153,15 @@ https://mslearn.cloudguides.com/guides/Modernize%20your%20security%20options%20w
 
 ## Module 6 - Connect logs to Microsoft Sentinel - Total time 0 minutes
 
-no videos<br>
+No videos<br>
 
 ## Module 7 - Create detections and perform investigations using Microsoft Sentinel<br>
 
-TODO: Add videos - there's dead links in the content, see if those links can be found and add it
+### Microsoft Defender for Cloud Apps - comprehensive demonstration<br>
+26 minutes <br>
+https://www.microsoft.com/en-us/videoplayer/embed/RE4CMYG
+
 
 ## Module 8: Perform threat hunting in Microsoft Sentinel<br>
 
-TODO: Add videos - there's dead links in the content, see if those links can be found and add it
-
-
+No videos<br>
