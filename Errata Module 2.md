@@ -5,7 +5,11 @@
 
 ## Lab 1<br>
 
-### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint<br>
+### Exercise 1 Deploy Microsoft Defender for Endpoint
+
+It may take 25 to 30 minutes for the Settings page Device discovery options to be available <br>
+
+### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint
 
 Office need to be activated in order to trigger the Attack<br>
 
