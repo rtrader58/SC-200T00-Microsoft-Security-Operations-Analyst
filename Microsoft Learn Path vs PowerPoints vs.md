@@ -34,13 +34,13 @@ Learning Path 2 - Lab 1 - Exercise 2 - Mitigate Attacks with Microsoft Defender 
 
 ## Learning Path 3: Mitigate threats using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-azure-defender/
 
-Module 1: Plan for cloud workload protections using Microsoft Defender for Cloud
-Module 2: Connect Azure assets to Microsoft Defender for Cloud
-Module 3: Connect non-Azure resources to Microsoft Defender for Cloud
-Module 4: Manage your cloud security posture management
-Module 5: Explain cloud workload protections in Microsoft Defender for Cloud
+Module 1: Plan for cloud workload protections using Microsoft Defender for Cloud <br>
+Module 2: Connect Azure assets to Microsoft Defender for Cloud <br>
+Module 3: Connect non-Azure resources to Microsoft Defender for Cloud <br>
+Module 4: Manage your cloud security posture management <br>
+Module 5: Explain cloud workload protections in Microsoft Defender for Cloud <br>
 Module 6: Remediate security alerts using Microsoft Defender
-for Cloud
+for Cloud <br>
 
 ## Learning Path 4: Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - https://learn.microsoft.com/en-us/training/paths/sc-200-utilize-kql-for-azure-sentinel/
 
