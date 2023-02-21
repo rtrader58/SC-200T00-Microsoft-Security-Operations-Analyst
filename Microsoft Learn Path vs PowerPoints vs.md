@@ -45,9 +45,9 @@ Module 6: Remediate security alerts using Microsoft Defender for Cloud - https:/
 
 ## lAB
 
-Learning Path 3 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud
-Exercise 1 - Enable Microsoft Defender for Cloud
-Exercise 2 - Mitigate threats using Microsoft Defender for Cloud
+Learning Path 3 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud <br>
+Exercise 1 - Enable Microsoft Defender for Cloud <br>
+Exercise 2 - Mitigate threats using Microsoft Defender for Cloud <br>
 
 ## Learning Path 4: Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - https://learn.microsoft.com/en-us/training/paths/sc-200-utilize-kql-for-azure-sentinel/
 
@@ -58,7 +58,7 @@ Module 4: Work with data in Microsoft Sentinel using Kusto Language - https://le
 
 ## Lab
 
-Learning Path 4: Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+Learning Path 4: Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
 Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
 ## Learning Path 5: SC-200: Configure your Microsoft Sentinel environment -https://learn.microsoft.com/en-us/training/paths/sc-200-configure-azure-sentinel-environment/
