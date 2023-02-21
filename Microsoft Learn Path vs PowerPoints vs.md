@@ -11,7 +11,7 @@ Module 6: Secure your cloud apps and services with Microsoft Defender for Cloud 
 Module 7: Respond to data loss prevention alerts using Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
 Module 8: Manage insider risk in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/m365-compliance-insider-manage-insider-risk/<br>
 
-## Lab
+### Lab
 
 Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender<br?>
 Exercise 1 - Explore Microsoft 365 Defender <br>
@@ -28,7 +28,7 @@ Module 7: Configure and manage automation using Microsoft Defender for Endpoint 
 Module 8: Configure for alerts and detections in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/ <br>
 Module 9: Utilize Vulnerability Management in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/ <br>
 
-## Lab
+### Lab
 
 Learning Path 2 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint
 Exercise 1 - Deploy Microsoft Defender for Endpoint <br>
@@ -43,7 +43,7 @@ Module 4: Manage your cloud security posture management - https://learn.microsof
 Module 5: Explain cloud workload protections in Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/understand-azure-defender-cloud-workload-protection/ <br>
 Module 6: Remediate security alerts using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/remediate-azure-defender-security-alerts/ <br>
 
-## Lab
+### Lab
 
 Learning Path 3 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud <br>
 Exercise 1 - Enable Microsoft Defender for Cloud <br>
@@ -56,10 +56,12 @@ Module 2: Analyze query results using KQL - https://learn.microsoft.com/en-us/tr
 Module 3: Build multi-table statements using KQL - https://learn.microsoft.com/en-us/training/modules/build-multi-table-statements-kusto-query-language/ <br>
 Module 4: Work with data in Microsoft Sentinel using Kusto Language - https://learn.microsoft.com/en-us/training/modules/work-with-data-kusto-query-language/ <br>
 
-## Lab
+### Lab
 
 Learning Path 4: Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
 Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+
+### Lab
 
 ## Learning Path 5: SC-200: Configure your Microsoft Sentinel environment -https://learn.microsoft.com/en-us/training/paths/sc-200-configure-azure-sentinel-environment/
 
@@ -68,6 +70,8 @@ Module 2: Create and manage Microsoft Sentinel workspaces - https://learn.micros
 Module 3: Query logs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-logs-azure-sentinel/ <br>
 Module 4: Use watchlists in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-watchlists-azure-sentinel/ <br>
 Module 5: Utilize threat intelligence in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/utilize-threat-intelligence-azure-sentinel/ <br>
+
+### Lab
 
 ## Learning Path 6: Connect logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-connect-logs-to-azure-sentinel/
 
@@ -78,6 +82,8 @@ Module 4: Connect Windows hosts to Microsoft Sentinel - https://learn.microsoft.
 Module 5: Connect Common Event Format logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-common-event-format-logs-to-azure-sentinel/ <br>
 Module 6: Connect syslog data sources to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-syslog-data-sources-to-azure-sentinel/ <br>
 Module 7: Connect threat indicators to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-threat-indicators-to-azure-sentinel/ <br>
+
+### Lab
 
 ## Learning Path 7: Create detections and perform investigations using Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/
 
@@ -90,9 +96,13 @@ Module 6: Data normalization in Microsoft Sentinel <br>
 Module 7: Query, visualize, and monitor data in Microsoft Sentinel <br>
 Module 8: Manage content in Microsoft Sentinel <br>
 
+### Lab
+
 ## Learning Path 8: Perform threat hunting in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/
 
 Module 1: Explain threat hunting concepts in Microsoft Sentinel <br>
 Module 2: Threat hunting with Microsoft Sentinel <br>
 Module 3: Use Search jobs in Microsoft Sentinel <br>
 Module 4: Threat hunting with Microsoft Sentinel  <br>
+
+### Lab
