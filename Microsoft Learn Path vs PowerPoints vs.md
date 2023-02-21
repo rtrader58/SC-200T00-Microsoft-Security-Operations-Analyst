@@ -43,7 +43,7 @@ Module 4: Manage your cloud security posture management - https://learn.microsof
 Module 5: Explain cloud workload protections in Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/understand-azure-defender-cloud-workload-protection/ <br>
 Module 6: Remediate security alerts using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/remediate-azure-defender-security-alerts/ <br>
 
-## lAB
+## Lab
 
 Learning Path 3 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud <br>
 Exercise 1 - Enable Microsoft Defender for Cloud <br>
