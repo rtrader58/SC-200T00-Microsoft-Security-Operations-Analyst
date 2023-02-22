@@ -30,7 +30,7 @@ Module 9: Utilize Vulnerability Management in Microsoft Defender for Endpoint - 
 
 ### Lab
 
-Learning Path 2 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint
+Learning Path 2 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint <br>
 Exercise 1 - Deploy Microsoft Defender for Endpoint <br>
 Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint <br>
 

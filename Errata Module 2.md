@@ -10,7 +10,7 @@
 Office need to be activated in order to trigger the Attack <br>
 
 On Win1 open File Explore browse to the following location <br>
-c:\Program Files (x86)\Microsoft Office\ <br>
+c:\Program Files (x86)\Microsoft Office\Office16 <br>
 Right click on OSPREARM.EXE select Run As Administrator <br>
 Click Yes <br>
 
