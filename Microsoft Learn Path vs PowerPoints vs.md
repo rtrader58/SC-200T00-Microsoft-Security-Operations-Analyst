@@ -90,7 +90,7 @@ Learning Path 6 - Lab 01 – Connect logs to Microsoft Sentinel <br>
 Exercise 1 - Connect data to Microsoft Sentinel using data connectors <br>
 Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors <br>
 Exercise 3 - Connect Linux hosts to Microsoft Sentinel using data connectors <br>
-Exercise 4 Connect Threat intelligence to Microsoft Sentinel using data connectors <br>
+Exercise 4 - Connect Threat intelligence to Microsoft Sentinel using data connectors <br>
 
 ## Learning Path 7: Create detections and perform investigations using Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/
 
@@ -122,11 +122,11 @@ Exercise 11 - Use Repositories in Microsoft Sentinel <br>
 
 Module 1: Explain threat hunting concepts in Microsoft Sentinel- https://learn.microsoft.com/en-us/training/modules/what-is-threat-hunting-azure-sentinel/ <br>
 Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/hunt-threats-sentinel/ <br>
-Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/<br>
-Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/  <br>
+Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/ <br>
+Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/ <br>
 
 ### Lab
 
-Learning Path 8 - Lab 1 –Threat hunting in Microsoft Sentinel
-Exercise 1 - Perform threat hunting in Microsoft Sentinel
-Exercise 2 - Threat hunting using notebooks with Microsoft Sentinel
+Learning Path 8 - Lab 1 –Threat hunting in Microsoft Sentinel <br>
+Exercise 1 - Perform threat hunting in Microsoft Sentinel <br>
+Exercise 2 - Threat hunting using notebooks with Microsoft  Sentinel <br>
