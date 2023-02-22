@@ -58,7 +58,7 @@ Module 4: Work with data in Microsoft Sentinel using Kusto Language - https://le
 
 ### Lab
 
-Learning Path 4: Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
+Learning Path 4 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
 Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
 ## Learning Path 5: SC-200: Configure your Microsoft Sentinel environment -https://learn.microsoft.com/en-us/training/paths/sc-200-configure-azure-sentinel-environment/
@@ -71,7 +71,7 @@ Module 5: Utilize threat intelligence in Microsoft Sentinel - https://learn.micr
 
 ### Lab
 
-Learning Path 5, Lab 01 – Configure your Microsoft Sentinel environment <BR>
+Learning Path 5 - Lab 01 – Configure your Microsoft Sentinel environment <BR>
 Exercise 1 - Configure your Microsoft Sentinel environment <br>
 
 ## Learning Path 6: Connect logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-connect-logs-to-azure-sentinel/
@@ -86,24 +86,47 @@ Module 7: Connect threat indicators to Microsoft Sentinel - https://learn.micros
 
 ### Lab
 
+Learning Path 6 - Lab 01 – Connect logs to Microsoft Sentinel <br>
+Exercise 1 - Connect data to Microsoft Sentinel using data connectors <br>
+Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors <br>
+Exercise 3 - Connect Linux hosts to Microsoft Sentinel using data connectors <br>
+Exercise 4 Connect Threat intelligence to Microsoft Sentinel using data connectors <br>
+
 ## Learning Path 7: Create detections and perform investigations using Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/
 
-Module 1: Threat detection with Microsoft Sentinel analytics <br>
-Module 2: Automation in Microsoft Sentinel <br>
-Module 3: Threat response with Microsoft Sentinel playbooks <br>
-Module 4: Security incident management in Microsoft Sentinel <br>
-Module 5: Identify threats with Entity behavioral analytics in Microsoft Sentinel <br>
-Module 6: Data normalization in Microsoft Sentinel <br>
-Module 7: Query, visualize, and monitor data in Microsoft Sentinel <br>
-Module 8: Manage content in Microsoft Sentinel <br>
+Module 1: Threat detection with Microsoft Sentinel analytics - https://learn.microsoft.com/en-us/training/modules/analyze-data-in-sentinel/ <br>
+Module 2: Automation in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/automation-microsoft-sentinel/ <br>
+Module 3: Threat response with Microsoft Sentinel playbooks - https://learn.microsoft.com/en-us/training/modules/threat-response-sentinel-playbooks/ <br>
+Module 4: Security incident management in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/incident-management-sentinel/ <br>
+Module 5: Identify threats with Entity behavioral analytics in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-entity-behavior-analytics-azure-sentinel/ <br>
+Module 6: Data normalization in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/data-normalization-microsoft-sentinel/ <br>
+Module 7: Query, visualize, and monitor data in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-data-sentinel/ <br>
+Module 8: Manage content in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/manage-content-microsoft-sentinel/ <br>
 
 ### Lab
+
+Learning Path 7 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel <br>
+Exercise 1 - Modify a Microsoft Security rule <br>
+Exercise 2 - Create a playbook <br>
+Exercise 3 - Create a scheduled query <br>
+Exercise 4 - Explore Entity Behavior Analytics <br>
+Exercise 5 - Understand detection modeling <br>
+Exercise 6 - Conduct attacks <br>
+Exercise 7 - Create detections <br>
+Exercise 8 - Investigate incidents <br>
+Exercise 9 - Create ASIM Parsers <br>
+Exercise 10 - Create Workbooks <br>
+Exercise 11 - Use Repositories in Microsoft Sentinel <br>
 
 ## Learning Path 8: Perform threat hunting in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/
 
-Module 1: Explain threat hunting concepts in Microsoft Sentinel <br>
-Module 2: Threat hunting with Microsoft Sentinel <br>
-Module 3: Use Search jobs in Microsoft Sentinel <br>
-Module 4: Threat hunting with Microsoft Sentinel  <br>
+Module 1: Explain threat hunting concepts in Microsoft Sentinel- https://learn.microsoft.com/en-us/training/modules/what-is-threat-hunting-azure-sentinel/ <br>
+Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/hunt-threats-sentinel/ <br>
+Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/<br>
+Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/  <br>
 
 ### Lab
+
+Learning Path 8 - Lab 1 –Threat hunting in Microsoft Sentinel
+Exercise 1 - Perform threat hunting in Microsoft Sentinel
+Exercise 2 - Threat hunting using notebooks with Microsoft Sentinel
