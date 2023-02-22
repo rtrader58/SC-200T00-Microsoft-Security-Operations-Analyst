@@ -61,8 +61,6 @@ Module 4: Work with data in Microsoft Sentinel using Kusto Language - https://le
 Learning Path 4: Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
 Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
-### Lab
-
 ## Learning Path 5: SC-200: Configure your Microsoft Sentinel environment -https://learn.microsoft.com/en-us/training/paths/sc-200-configure-azure-sentinel-environment/
 
 Module 1: Introduction to Microsoft Sentinel -https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sentinel/ <br>
@@ -72,6 +70,9 @@ Module 4: Use watchlists in Microsoft Sentinel - https://learn.microsoft.com/en-
 Module 5: Utilize threat intelligence in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/utilize-threat-intelligence-azure-sentinel/ <br>
 
 ### Lab
+
+Learning Path 5, Lab 01 – Configure your Microsoft Sentinel environment <BR>
+Exercise 1 - Configure your Microsoft Sentinel environment <br>
 
 ## Learning Path 6: Connect logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-connect-logs-to-azure-sentinel/
 
