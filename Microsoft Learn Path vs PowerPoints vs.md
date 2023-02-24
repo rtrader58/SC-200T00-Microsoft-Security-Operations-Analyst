@@ -125,6 +125,8 @@ Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/e
 Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/ <br>
 Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/ <br>
 
+### Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
+
 ### Lab
 
 Learning Path 8 - Lab 1 –Threat hunting in Microsoft Sentinel <br>
