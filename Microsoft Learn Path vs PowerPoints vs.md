@@ -13,7 +13,7 @@ Module 8: Manage insider risk in Microsoft Purview - https://learn.microsoft.com
 
 ### Lab
 
-Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender<br?>
+Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender <br>
 Exercise 1 - Explore Microsoft 365 Defender <br>
 
 ## Learning Path 2: Mitigate threats using Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/
