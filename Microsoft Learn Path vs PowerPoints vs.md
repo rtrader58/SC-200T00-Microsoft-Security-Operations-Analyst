@@ -10,11 +10,11 @@ Module 5: Safeguard your environment with Microsoft Defender for Identity - http
 Module 6: Secure your cloud apps and services with Microsoft Defender for Cloud Apps - https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/<br>
 Module 7: Respond to data loss prevention alerts using Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
 Module 8: Manage insider risk in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/m365-compliance-insider-manage-insider-risk/<br>
-Module 9: Investigate threats Content search in Microsoft Preview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/<br>
-Module 10: Investigate threats using Microsoft Preview Audit (Standard) -https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-standard/ <br>
-Module 11: Investigate thret Preview Audit (Premium) - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-premium/<br>
+Module 9: Investigate threats using Microsoft Preview Audit (Standard) -https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-standard/ <br>
+Module 10: Investigate thret Preview Audit (Premium) - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-premium/<br>
+Module 11: Investigate threats Content search in Microsoft Preview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/<br>
 
-### Lab
+### Lab (~30 Minutes)
 
 Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender <br>
 Exercise 1 - Explore Microsoft 365 Defender <br>
@@ -31,7 +31,7 @@ Module 7: Configure and manage automation using Microsoft Defender for Endpoint 
 Module 8: Configure for alerts and detections in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/ <br>
 Module 9: Utilize Vulnerability Management in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/ <br>
 
-### Lab
+### Lab (~30 Minutes)
 
 Learning Path 2 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint <br>
 Exercise 1 - Deploy Microsoft Defender for Endpoint <br>
