@@ -10,6 +10,9 @@ Module 5: Safeguard your environment with Microsoft Defender for Identity - http
 Module 6: Secure your cloud apps and services with Microsoft Defender for Cloud Apps - https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/<br>
 Module 7: Respond to data loss prevention alerts using Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
 Module 8: Manage insider risk in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/m365-compliance-insider-manage-insider-risk/<br>
+Module 9: Investigate threats Content search in Microsoft Preview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/
+Module 10: Investigate threats using Microsoft Preview Audit (Standard) -https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-standard/ 
+Module 11: Investigate thret Preview Audit (Premium) - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-premium/
 
 ### Lab
 
