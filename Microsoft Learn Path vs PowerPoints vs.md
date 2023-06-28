@@ -46,7 +46,7 @@ Module 4: Manage your cloud security posture management - https://learn.microsof
 Module 5: Explain cloud workload protections in Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/understand-azure-defender-cloud-workload-protection/ <br>
 Module 6: Remediate security alerts using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/remediate-azure-defender-security-alerts/ <br>
 
-### Lab
+### Lab (~30 Minutes)
 
 Learning Path 3 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud <br>
 Exercise 1 - Enable Microsoft Defender for Cloud <br>
@@ -59,7 +59,7 @@ Module 2: Analyze query results using KQL - https://learn.microsoft.com/en-us/tr
 Module 3: Build multi-table statements using KQL - https://learn.microsoft.com/en-us/training/modules/build-multi-table-statements-kusto-query-language/ <br>
 Module 4: Work with data in Microsoft Sentinel using Kusto Language - https://learn.microsoft.com/en-us/training/modules/work-with-data-kusto-query-language/ <br>
 
-### Lab
+### Lab (~30 Minutes)
 
 Learning Path 4 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
 Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
