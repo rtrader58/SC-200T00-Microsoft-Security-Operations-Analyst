@@ -72,7 +72,7 @@ Module 3: Query logs in Microsoft Sentinel - https://learn.microsoft.com/en-us/t
 Module 4: Use watchlists in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-watchlists-azure-sentinel/ <br>
 Module 5: Utilize threat intelligence in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/utilize-threat-intelligence-azure-sentinel/ <br>
 
-### Lab
+### Lab (~30 Minutes)
 
 Learning Path 5 - Lab 01 – Configure your Microsoft Sentinel environment <BR>
 Exercise 1 - Configure your Microsoft Sentinel environment <br>
@@ -87,7 +87,7 @@ Module 5: Connect Common Event Format logs to Microsoft Sentinel - https://learn
 Module 6: Connect syslog data sources to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-syslog-data-sources-to-azure-sentinel/ <br>
 Module 7: Connect threat indicators to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-threat-indicators-to-azure-sentinel/ <br>
 
-### Lab
+### Lab (~60 Minutes) 
 
 Learning Path 6 - Lab 01 – Connect logs to Microsoft Sentinel <br>
 Exercise 1 - Connect data to Microsoft Sentinel using data connectors <br>
@@ -106,7 +106,7 @@ Module 6: Data normalization in Microsoft Sentinel - https://learn.microsoft.com
 Module 7: Query, visualize, and monitor data in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-data-sentinel/ <br>
 Module 8: Manage content in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/manage-content-microsoft-sentinel/ <br>
 
-### Lab
+### Lab (~60 Minutes) 
 
 Learning Path 7 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel <br>
 Exercise 1 - Modify a Microsoft Security rule <br>
@@ -128,12 +128,11 @@ Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/e
 Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/ <br>
 Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/ <br>
 
-### Lab
+### Lab (~30 Minutes) 
 
 Learning Path 8 - Lab 1 –Threat hunting in Microsoft Sentinel <br>
 Exercise 1 - Perform threat hunting in Microsoft Sentinel <br>
 Exercise 2 - Threat hunting using notebooks with Microsoft  Sentinel <br>
-
 
 ### Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
 
