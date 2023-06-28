@@ -4,7 +4,10 @@
 ## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes)
 
 Step 2:  Activate your subscription<br>
-Leave Name and email as is, enter your information in the remaining fields – replace phone number with a valid phone number <br>
+Ensure you are using the logon credentials provided in the lab for your Azure Tenant <br>
+Change First and Last Name <br>
+Do not change email address <br>
+Enter your information in the remaining fields – replace phone number with a valid phone number <br>
 Fill in the address fields <br>
 
 ## Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender
