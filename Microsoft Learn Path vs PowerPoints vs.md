@@ -19,9 +19,9 @@ Exercise 1 - Explore Microsoft 365 Defender <br>
 
 Module 1: Respond to data loss prevention alerts using Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
 Module 2: Manage insider risk in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/m365-compliance-insider-manage-insider-risk/<br>
-Module 3: Investigate threats using Content search in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/<br>
+Module 3: Investigate threats using Microsoft Purview Audit (Premium - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-premium/<br>
 Module 4: Investigate threats using Microsoft Purview Audit (Standard) - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-standard/<br>
-Module 5: Investigate threats using Microsoft Purview Audit (Premium - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-premium/<br>
+Module 5: Investigate threats using Content search in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/<br>
 
 ## Learning Path 3: Mitigate threats using Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/
 
