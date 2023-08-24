@@ -16,6 +16,10 @@ Fill in the address fields <br>
 
 No Errata<br>
 
+## Learning Path 2 - Mitigate threats using Microsoft Purview
+
+No Labs <br>
+
 ## Learning Path 3 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint
 
 ### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint
