@@ -16,7 +16,7 @@ Fill in the address fields <br>
 
 No Errata<br>
 
-## Learning Path 2 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint
+## Learning Path 3 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint
 
 ### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint
 
@@ -32,19 +32,19 @@ Do not continue until you see Win1 listed as a device under assets.  ~20 Minutes
 Task 2: Investigate the Attacks<br>
 Took ~30 Minutes before the incident appeared - keep refreshing the screen until it appears<br>
 
-## Learning Path 3 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud
+## Learning Path 4 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud
 
 No Errata <br>
 
-## Learning Path 4 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
+## Learning Path 5 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
 No Errata <br>
 
-## Learning Path 5 - Lab 01 – Configure your Microsoft Sentinel environment
+## Learning Path 6 - Lab 01 – Configure your Microsoft Sentinel environment
 
 No Errata <br>
 
-## Learning Path 6 - Lab 01 – Connect logs to Microsoft Sentinel
+## Learning Path 7 - Lab 01 – Connect logs to Microsoft Sentinel
 
 ### Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors
 Task 2 - Connecrt an Azure Windows virtual machine <br>
@@ -53,14 +53,14 @@ step 6:  Paste function does not work, manually type the name AZWIN01DCR <br>
 Task 3 - Connect a non-Azure Windows Machine <br>
 step 30:  Paste function does not work, manually type the name WIN2 <br>
 
-## Learning Path 7 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel
+## Learning Path 8 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel
 
 ### Exercise 1 - Modify a Microsoft Security rule
 
 Task 1 - Activate a microsoft Security Rule <br>
 Step 11:  If not selected select Informational, Mediun and High <br>
 
-## Learning Path 8 - Lab 1 –Threat hunting in Microsoft Sentinel
+## Learning Path 9 - Lab 1 –Threat hunting in Microsoft Sentinel
 
 No Errata
 
