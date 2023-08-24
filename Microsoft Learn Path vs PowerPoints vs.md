@@ -9,17 +9,21 @@ Module 4: Remediate risks with Microsoft Defender for Office 365 - https://learn
 Module 5: Safeguard your environment with Microsoft Defender for Identity - https://learn.microsoft.com/en-us/training/modules/m365-threat-safeguard/<br>
 Module 6: Secure your cloud apps and services with Microsoft Defender for Cloud Apps - https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/<br>
 Module 7: Respond to data loss prevention alerts using Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
-Module 8: Manage insider risk in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/m365-compliance-insider-manage-insider-risk/<br>
-Module 9: Investigate threats using Microsoft Preview Audit (Standard) -https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-standard/ <br>
-Module 10: Investigate thret Preview Audit (Premium) - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-premium/<br>
-Module 11: Investigate threats Content search in Microsoft Preview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/<br>
 
 ### Lab (~30 Minutes)
 
 Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender <br>
 Exercise 1 - Explore Microsoft 365 Defender <br>
 
-## Learning Path 2: Mitigate threats using Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/
+## Learning Path 2:  Mitigate threats using Microsoft Purview - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-purview/
+
+Module 1: Respond to data loss prevention alerts using Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
+Module 2: Manage insider risk in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/m365-compliance-insider-manage-insider-risk/<br>
+Module 3: Investigate threats using Content search in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/<br>
+Module 4: Investigate threats using Microsoft Purview Audit (Standard) - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-standard/<br>
+Module 5: Investigate threats using Microsoft Purview Audit (Premium - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-premium/<br>
+
+## Learning Path 3: Mitigate threats using Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/
 
 Module 1: Protect against threats with Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/m365-security-threat-protect/ <br>
 Module 2: Deploy the Microsoft Defender for Endpoint environment - https://learn.microsoft.com/en-us/training/modules/deploy-microsoft-defender-for-endpoints-environment/ <br>
@@ -33,11 +37,11 @@ Module 9: Utilize Vulnerability Management in Microsoft Defender for Endpoint - 
 
 ### Lab (~30 Minutes)
 
-Learning Path 2 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint <br>
+Learning Path 3 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint <br>
 Exercise 1 - Deploy Microsoft Defender for Endpoint <br>
 Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint <br>
 
-## Learning Path 3: Mitigate threats using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-azure-defender/
+## Learning Path 4: Mitigate threats using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-azure-defender/
 
 Module 1: Plan for cloud workload protections using Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/what-is-azure-defender/ <br>
 Module 2: Connect Azure assets to Microsoft Defender for Cloud - https://learn.microsoft.com/en-us/training/modules/connect-azure-assets-to-azure-defender/ <br>
@@ -48,11 +52,11 @@ Module 6: Remediate security alerts using Microsoft Defender for Cloud - https:/
 
 ### Lab (~30 Minutes)
 
-Learning Path 3 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud <br>
+Learning Path 4 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud <br>
 Exercise 1 - Enable Microsoft Defender for Cloud <br>
 Exercise 2 - Mitigate threats using Microsoft Defender for Cloud <br>
 
-## Learning Path 4: Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - https://learn.microsoft.com/en-us/training/paths/sc-200-utilize-kql-for-azure-sentinel/
+## Learning Path 5: Create queries for Microsoft Sentinel using Kusto Query Language (KQL) - https://learn.microsoft.com/en-us/training/paths/sc-200-utilize-kql-for-azure-sentinel/
 
 Module 1: Construct KQL statements for Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/construct-kusto-query-language-statements/ <br>
 Module 2: Analyze query results using KQL - https://learn.microsoft.com/en-us/training/modules/analyze-results-kusto-query-language/ <br>
@@ -61,10 +65,10 @@ Module 4: Work with data in Microsoft Sentinel using Kusto Language - https://le
 
 ### Lab (~30 Minutes)
 
-Learning Path 4 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
+Learning Path 5 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) <br>
 Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
-## Learning Path 5: Configure your Microsoft Sentinel environment -https://learn.microsoft.com/en-us/training/paths/sc-200-configure-azure-sentinel-environment/
+## Learning Path 6: Configure your Microsoft Sentinel environment -https://learn.microsoft.com/en-us/training/paths/sc-200-configure-azure-sentinel-environment/
 
 Module 1: Introduction to Microsoft Sentinel -https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sentinel/ <br>
 Module 2: Create and manage Microsoft Sentinel workspaces - https://learn.microsoft.com/en-us/training/modules/create-manage-azure-sentinel-workspaces/ <br>
@@ -74,10 +78,10 @@ Module 5: Utilize threat intelligence in Microsoft Sentinel - https://learn.micr
 
 ### Lab (~30 Minutes)
 
-Learning Path 5 - Lab 01 – Configure your Microsoft Sentinel environment <BR>
+Learning Path 6 - Lab 01 – Configure your Microsoft Sentinel environment <BR>
 Exercise 1 - Configure your Microsoft Sentinel environment <br>
 
-## Learning Path 6: Connect logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-connect-logs-to-azure-sentinel/
+## Learning Path 7: Connect logs to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-connect-logs-to-azure-sentinel/
 
 Module 1: Connect data to Microsoft Sentinel using data connectors - https://learn.microsoft.com/en-us/training/modules/connect-data-to-azure-sentinel-with-data-connectors/ <br>
 Module 2: Connect Microsoft services to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-microsoft-services-to-azure-sentinel/ <br>
@@ -89,13 +93,13 @@ Module 7: Connect threat indicators to Microsoft Sentinel - https://learn.micros
 
 ### Lab (~60 Minutes) 
 
-Learning Path 6 - Lab 01 – Connect logs to Microsoft Sentinel <br>
+Learning Path 7 - Lab 01 – Connect logs to Microsoft Sentinel <br>
 Exercise 1 - Connect data to Microsoft Sentinel using data connectors <br>
 Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors <br>
 Exercise 3 - Connect Linux hosts to Microsoft Sentinel using data connectors <br>
 Exercise 4 - Connect Threat intelligence to Microsoft Sentinel using data connectors <br>
 
-## Learning Path 7: Create detections and perform investigations using Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/
+## Learning Path 8: Create detections and perform investigations using Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/
 
 Module 1: Threat detection with Microsoft Sentinel analytics - https://learn.microsoft.com/en-us/training/modules/analyze-data-in-sentinel/ <br>
 Module 2: Automation in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/automation-microsoft-sentinel/ <br>
@@ -108,7 +112,7 @@ Module 8: Manage content in Microsoft Sentinel - https://learn.microsoft.com/en-
 
 ### Lab (~60 Minutes) 
 
-Learning Path 7 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel <br>
+Learning Path 8 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel <br>
 Exercise 1 - Modify a Microsoft Security rule <br>
 Exercise 2 - Create a playbook <br>
 Exercise 3 - Create a scheduled query <br>
@@ -121,7 +125,7 @@ Exercise 9 - Create ASIM Parsers <br>
 Exercise 10 - Create Workbooks <br>
 Exercise 11 - Use Repositories in Microsoft Sentinel <br>
 
-## Learning Path 8: Perform threat hunting in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/
+## Learning Path 9: Perform threat hunting in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/
 
 Module 1: Explain threat hunting concepts in Microsoft Sentinel- https://learn.microsoft.com/en-us/training/modules/what-is-threat-hunting-azure-sentinel/ <br>
 Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/hunt-threats-sentinel/ <br>
@@ -130,7 +134,7 @@ Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/e
 
 ### Lab (~30 Minutes) 
 
-Learning Path 8 - Lab 1 –Threat hunting in Microsoft Sentinel <br>
+Learning Path 9 - Lab 1 –Threat hunting in Microsoft Sentinel <br>
 Exercise 1 - Perform threat hunting in Microsoft Sentinel <br>
 Exercise 2 - Threat hunting using notebooks with Microsoft  Sentinel <br>
 
