@@ -1,7 +1,7 @@
 # SC-200T00-Microsoft-Security-Operations-Anayst
  
 ## This repository is provided to enhance the course.
-## Updated 6/29/2023.
+## Updated 8/22/2023.
 
 This repository is maintained by Mike Danseglio and Rick Trader.<br>
 Interface Technical Training.<br>
