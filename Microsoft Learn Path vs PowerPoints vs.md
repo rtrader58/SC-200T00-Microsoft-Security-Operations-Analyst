@@ -23,6 +23,8 @@ Module 3: Investigate threats using Microsoft Purview Audit (Premium - https://l
 Module 4: Investigate threats using Microsoft Purview Audit (Standard) - https://learn.microsoft.com/en-us/training/modules/investigate-threats-using-audit-in-microsoft-365-defender-microsoft-purview-standard/<br>
 Module 5: Investigate threats using Content search in Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/investigate-threats-with-content-search-in-microsoft-purview/<br>
 
+### Lab (No labs)
+
 ## Learning Path 3: Mitigate threats using Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/
 
 Module 1: Protect against threats with Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/training/modules/m365-security-threat-protect/ <br>
