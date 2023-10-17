@@ -36,9 +36,10 @@ Do not continue until you see Win1 listed as a device under assets.  ~20 Minutes
 Task 2: Investigate the Attacks<br>
 Took ~30 Minutes before the incident appeared - keep refreshing the screen until it appears<br>
 
-## Learning Path 4 - Lab 01 – Mitigate threats using Microsoft Defender for Cloud
+## Learning Path 4 - Lab 01 Exercise 1 – Enable Microsoft Defender for Cloud
 
-No Errata <br>
+ Task 1: Access the Azure portal and set up a Subscription <br>
+ After Step 10: On the Conditions tab select Not Constrained in Delegation type. Click Next<br>
 
 ## Learning Path 5 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 
