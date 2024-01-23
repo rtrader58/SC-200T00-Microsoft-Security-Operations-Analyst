@@ -33,7 +33,12 @@ Click Yes<br>
 
 Do not continue until you see Win1 listed as a device under assets.  ~20 Minutes<br>
 
-Task 2: Investigate the Attacks<br>
+SKIP - Task 2: Investigate the Attacks<br>
+
+Per the link below Evaluation Lab has been retired as of 18 Jan 2024 <br>
+
+https://admin.microsoft.com/Adminportal/Home?#/MessageCenter/:/messages/MC698829https://admin.microsoft.com/Adminportal/Home?#/MessageCenter/:/messages/MC698829 <br>
+
 Took ~30 Minutes before the incident appeared - keep refreshing the screen until it appears<br>
 
 ## Learning Path 4 - Lab 01 Exercise 1 – Enable Microsoft Defender for Cloud
