@@ -1,7 +1,8 @@
 # Kusto Query Language Query Links
 
-What is KQL (including source code) https://github.com/microsoft/Kusto-Query-Language <br>
+What is KQL (including source code) - https://github.com/microsoft/Kusto-Query-Language <br>
 Azure Sentinel tables explained - https://medium.com/wortell/azure-sentinel-tables-explained-d91d8cad6f <br>
+Security Alert schema reference - https://learn.microsoft.com/en-us/azure/sentinel/security-alert-schema <br>
 A number of repos with KQL sample queries... 
 * https://github.com/microsoft/Kusto-Query-Language/blob/master/doc/samples.md <br>
 * https://github.com/tobiasmcvey/kusto-queries <br>
