@@ -1,6 +1,6 @@
 # Kusto Query Language Query Links
 
-https://github.com/microsoft/Kusto-Query-Language <br>
+What is KQL -https://github.com/microsoft/Kusto-Query-Language <br>
 Azure Sentinel tables explained - https://medium.com/wortell/azure-sentinel-tables-explained-d91d8cad6f <br>
 KQL sample queries - https://github.com/microsoft/Kusto-Query-Language/blob/master/doc/samples.md <br>
 https://github.com/tobiasmcvey/kusto-queries <br>
