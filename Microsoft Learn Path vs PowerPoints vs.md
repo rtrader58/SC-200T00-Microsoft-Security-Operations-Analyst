@@ -101,7 +101,6 @@ Learning Path 7 - Lab 01 – Connect logs to Microsoft Sentinel <br>
 Exercise 1 - Connect data to Microsoft Sentinel using data connectors <br>
 Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors <br>
 Exercise 3 - Connect Linux hosts to Microsoft Sentinel using data connectors <br>
-Exercise 4 - Connect Threat intelligence to Microsoft Sentinel using data connectors <br>
 
 ## Learning Path 8: Create detections and perform investigations using Microsoft Sentinel - https://learn.microsoft.com/en-us/training/paths/sc-200-create-detections-perform-investigations-azure-sentinel/
 
