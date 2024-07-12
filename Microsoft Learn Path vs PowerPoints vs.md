@@ -17,6 +17,13 @@ Module 7: Respond to data loss prevention alerts using Microsoft 365 - https://l
 Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender <br>
 Exercise 1 - Explore Microsoft 365 Defender <br>
 
+## SC-200: Mitigate threats using Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-copilot-for-security/
+
+Module 1:  Fundamentals of Generative AI - https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/ <br>
+Module 2:  Describe Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/ <br>
+Module 3:  Describe the core features of Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/ <br>
+Describe the embedded experiences of Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/ <br>
+
 ## Learning Path 2:  Mitigate threats using Microsoft Purview - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-purview/
 
 Module 1: Respond to data loss prevention alerts using Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
