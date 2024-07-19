@@ -12,7 +12,7 @@ Do not change email address <br>
 Enter your information in the remaining fields – replace phone number with a valid phone number <br>
 Fill in the address fields <br>
 
-## Learning Path 1 - Lab 1 - Mitigate threats using Microsoft 365 Defender
+## Learning Path 1 - Lab 1 - Explore Microsoft Defender XDR
 
 No Errata<br>
 
@@ -20,7 +20,7 @@ No Errata<br>
 
 No Labs <br>
 
-## Learning Path 3 - Lab 1 - Mitigate threats using Microsoft Defender for Endpoint
+## Learning Path 3 - Lab 1 - Deploy Microsoft Defender for Endpoint
 
 ### Exercise 2 - Mitigate Attacks with Microsoft Defender for Endpoint
 
@@ -32,14 +32,14 @@ Right click on OSPREARM.EXE select Run As Administrator<br>
 Click Yes<br>
 
 Do not continue until you see Win1 listed as a device under assets.  ~20 Minutes<br>
-
-SKIP - Task 2: Investigate the Attacks<br>
-
-Per the link below Evaluation Lab has been retired as of 18 Jan 2024 <br>
-
-https://admin.microsoft.com/Adminportal/Home?#/MessageCenter/:/messages/MC698829https://admin.microsoft.com/Adminportal/Home?#/MessageCenter/:/messages/MC698829 <br>
-
 Took ~30 Minutes before the incident appeared - keep refreshing the screen until it appears<br>
+
+Task 2: Investigate alerts and incidents<br>
+step 7:  Manage alert not Manage incident<br>
+Skip Step 8 <br>
+
+Task 4: Investigate the simulated attack as a single incident <br>
+Step 2:  You may have to refresh the screen to see the incident <br>
 
 ## Learning Path 4 - Lab 01 Exercise 1 – Enable Microsoft Defender for Cloud
 
