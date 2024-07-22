@@ -1,7 +1,7 @@
-# SC-200T00-Microsoft-Security-Operations-Anayst
+# SC-200T00 Microsoft Security Operations Analyst
  
 ## This repository is provided to enhance the course.
-## Updated 10/17/2023.
+## Updated 7/19/2024.
 
 This repository is maintained by Mike Danseglio and Rick Trader.<br>
 Interface Technical Training.<br>
