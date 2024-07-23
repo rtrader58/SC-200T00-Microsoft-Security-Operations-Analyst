@@ -3,9 +3,6 @@
 
 ## Learning Path 4 - Lab 01 Exercise 1 – Enable Microsoft Defender for Cloud
 
- Task 1: Access the Azure portal and set up a Subscription <br>
- After Step 10: On the Conditions tab select Not Constrained in Delegation type. Click Next<br>
-
  Task 5: Protect an On-Premises Server <br>
  Step 1:  Go to Microsoft Defender for Cloud and select the Security solution page from the left menu <br>
  Step 2:  Select ADD in the Non-Azure Servers box <br>
