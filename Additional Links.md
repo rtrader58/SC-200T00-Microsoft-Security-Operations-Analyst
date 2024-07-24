@@ -18,4 +18,3 @@ Microsoft Defender for Servers Pricing - https://azure.microsoft.com/en-us/prici
 Azure Sentinel tables explained - https://medium.com/wortell/azure-sentinel-tables-explained-d91d8cad6f <br>
 KQL sample queries - https://github.com/wortell/KQL <br>
 
-### Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
