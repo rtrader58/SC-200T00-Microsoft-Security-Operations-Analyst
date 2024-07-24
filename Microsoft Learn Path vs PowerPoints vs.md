@@ -146,7 +146,4 @@ Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/e
 
 Learning Path 9 - Lab 1 –Threat hunting in Microsoft Sentinel <br>
 Exercise 1 - Perform threat hunting in Microsoft Sentinel <br>
-Exercise 2 - Threat hunting using notebooks with Microsoft  Sentinel <br>
-
-### Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
-
+Exercise 2 - Threat hunting using notebooks with Microsoft Sentinel <br>
